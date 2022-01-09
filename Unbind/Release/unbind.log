@@ -1,0 +1,16 @@
+﻿  export.cpp
+  NoneSystemAPIExport.cpp
+  unbind.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\Dbghelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\Dbghelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+version.def : warning LNK4104: 导出符号“DllInitialize”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllCanUnloadNow”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllGetClassObject”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllRegisterServer”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllUnregisterServer”应为 PRIVATE
+    正在创建库 D:\vsproject\LittleBear\Release\unbind.lib 和对象 D:\vsproject\LittleBear\Release\unbind.exp
+  正在生成代码
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  unbind.vcxproj -> D:\vsproject\LittleBear\Release\unbind.dll
+  unbind.vcxproj -> D:\vsproject\LittleBear\Release\unbind.pdb (Full PDB)

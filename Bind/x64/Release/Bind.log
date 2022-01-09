@@ -1,0 +1,11 @@
+﻿  Bind.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\Dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+Bind.cpp(122): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Bind.cpp(106): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+Bind.cpp(342): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SetIcon.cpp
+SetIcon.cpp(112): warning C4311: “类型转换”: 从“void *”到“DWORD”的指针截断
+SetIcon.cpp(112): warning C4302: “类型转换”: 从“void *”到“DWORD”截断
+SetIcon.cpp(112): warning C4312: “类型转换”: 从“unsigned long”转换到更大的“void *”

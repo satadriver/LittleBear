@@ -1,0 +1,76 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/NODEFAULTLIB:libcmt.lib”
+  VideoSdk.cpp
+  UsbFileWatcher.cpp
+  SoundRecord.cpp
+  UplodLogFile.cpp
+  UploadFile.cpp
+  SuicideSelf.cpp
+  BootWithApp.cpp
+  ScreenVideo.cpp
+  ScreenSnapshot.cpp
+  RunningProcess.cpp
+  ShellCommand.cpp
+  RemoteControlProc.cpp
+  RemoteControl.cpp
+  RegEditor.cpp
+  PublicVar.cpp
+  PublicFunc.cpp
+  Plugin.cpp
+  NoneSystemAPIExport.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+  NetWorkCommand.cpp
+  NetWorkData.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+d:\vsproject\littlebear\littlebeardll\networkdata.cpp(198): warning C4101: “szShowInfo”: 未引用的局部变量
+  正在生成代码...
+  正在编译...
+  MessageBoxProc.cpp
+  DesktopLinkFile.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+  LittleBearDll.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+  KeyBoard.cpp
+  JncfTrojanFunc.cpp
+  InstallApps.cpp
+d:\vsproject\littlebear\littlebeardll\installapps.cpp(36): warning C4838: 从“char”转换到“unsigned char”需要收缩转换
+d:\vsproject\littlebear\littlebeardll\installapps.cpp(41): warning C4838: 从“char”转换到“unsigned char”需要收缩转换
+  InjectDll.cpp
+  DeviceInformation.cpp
+  GetKernel32Base.cpp
+  DownloadFile.cpp
+  ClipboardText.cpp
+  AntiVirusInfo.cpp
+  DllExport.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+  HardDiskFile.cpp
+  GetScreenFrame.cpp
+  FileOperator.cpp
+  Config.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+  comctl32.cpp
+  cmdhtml.cpp
+  CameraCapture.cpp
+  正在生成代码...
+  正在编译...
+  BootAutoRun.cpp
+d:\vsproject\littlebear\littlebeardll\config.h(34): warning C4005: “OBJECT_FILEFORMAT_EXE”: 宏重定义
+  d:\vsproject\littlebear\littlebeardll\config.h(34): note: 命令行参数: 参见前面的“OBJECT_FILEFORMAT_EXE”定义
+  BasicDeviceInfo.cpp
+  atl.cpp
+  AppScreenshot.cpp
+  正在生成代码...
+d:\vsproject\littlebear\littlebeardll\bootautorun.cpp(58): warning C4172: 返回局部变量或临时变量的地址: stWfd
+LIBCMTD.lib(initializers.obj) : warning LNK4098: 默认库“libcmt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+zlib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(adler32.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(compress.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(crc32.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(deflate.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(trees.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(zutil.obj)”或在“D:\vsproject\LittleBear\Debug\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  LittleBearDll.vcxproj -> D:\vsproject\LittleBear\Debug\example.exe
+  LittleBearDll.vcxproj -> D:\vsproject\LittleBear\Debug\example.pdb (Full PDB)

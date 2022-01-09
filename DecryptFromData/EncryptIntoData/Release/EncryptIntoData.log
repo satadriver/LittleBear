@@ -1,0 +1,12 @@
+﻿  EncryptIntoData.cpp
+  正在生成代码
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+zlib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(adler32.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(compress.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(crc32.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(deflate.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(trees.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(zutil.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  EncryptIntoData.vcxproj -> D:\vsproject\LittleBear\Release\EncryptIntoData.exe
+  EncryptIntoData.vcxproj -> D:\vsproject\LittleBear\Release\EncryptIntoData.pdb (Full PDB)

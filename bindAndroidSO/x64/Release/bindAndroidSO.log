@@ -1,0 +1,5 @@
+﻿  BindSo.cpp
+BindSo.cpp(230): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+BindSo.cpp(249): warning C4101: “szlog”: 未引用的局部变量
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: 无法解析的外部符号 WinMain
+D:\vsproject\LittleBear\x64\Release\bindAndroidSO.exe : fatal error LNK1120: 1 个无法解析的外部命令

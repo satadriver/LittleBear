@@ -1,0 +1,143 @@
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+
+
+重要信息: 已成功执行命令。
+但不赞成使用 "netsh firewall"；
+而应该使用 "netsh advfirewall firewall"。
+有关使用 "netsh advfirewall firewall" 命令
+而非 "netsh firewall" 的详细信息，请参阅
+http://go.microsoft.com/fwlink/?linkid=121488
+上的 KB 文章 947709。
+
+确定。
+

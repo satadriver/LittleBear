@@ -1,0 +1,8 @@
+﻿  DecryptFromBmp.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1190,5): warning MSB8012: TargetExt(.jpeg.bmp.png.gif.exe) does not match the Linker's OutputFile property value (.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(DecryptFromBmp) does not match the Linker's OutputFile property value (DecryptFromBmp.jpeg.bmp.png.gif). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  正在生成代码
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DecryptFromBmp.vcxproj -> D:\vsproject\LittleBear\Release\DecryptFromBmp.jpeg.bmp.png.gif.exe
+  DecryptFromBmp.vcxproj -> D:\vsproject\LittleBear\Release\DecryptFromBmp.pdb (Full PDB)

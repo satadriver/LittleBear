@@ -1,0 +1,60 @@
+﻿  AutoRun.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  DllExportFunc.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  LoadFromServer.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  Public.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+Public.cpp(188): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrLoadLibraryA”
+Public.cpp(207): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrGetComputerNameA”
+Public.cpp(208): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrCreateFileA”
+Public.cpp(209): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrCloseHandle”
+Public.cpp(210): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrWriteFile”
+Public.cpp(211): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrReadFile”
+Public.cpp(212): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrSleep”
+Public.cpp(213): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrGetSystemDirectoryA”
+Public.cpp(214): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrlstrlenA”
+Public.cpp(215): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrlstrcatA”
+Public.cpp(216): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrlstrcpyA”
+Public.cpp(217): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrWinExec”
+Public.cpp(222): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrwsprintfA”
+Public.cpp(227): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrShellExecuteA”
+Public.cpp(242): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrsend”
+Public.cpp(243): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrrecv”
+Public.cpp(244): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrclosesocket”
+Public.cpp(245): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrconnect”
+Public.cpp(246): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrinet_addr”
+Public.cpp(247): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrntohs”
+Public.cpp(248): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrgethostname”
+Public.cpp(249): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrgethostbyname”
+Public.cpp(250): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrsocket”
+Public.cpp(251): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrWSAStartup”
+Public.cpp(252): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrWSACleanup”
+Public.cpp(253): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrgethostbyname”
+Public.cpp(259): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrNetWkstaGetInfo”
+Public.cpp(260): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrNetApiBufferFree”
+Public.cpp(265): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrGetUserNameA”
+Public.cpp(270): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrMakeSureDirectoryPathExists”
+Public.cpp(282): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegDeleteKeyA”
+Public.cpp(283): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegCreateKeyA”
+Public.cpp(284): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegCloseKey”
+Public.cpp(285): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegQueryValueExA”
+Public.cpp(286): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegSetValueExA”
+Public.cpp(287): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegOpenKeyExA”
+Public.cpp(288): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegEnumKeyExA”
+Public.cpp(289): warning C4312: “类型转换”: 从“DWORD”转换到更大的“ptrRegCreateKeyExA”
+Public.cpp(410): warning C4312: “类型转换”: 从“DWORD”转换到更大的“LPFN_ISWOW64PROCESS”
+  TrojanClient.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+    正在创建库 D:\vsproject\LittleBear\x64\Release\TrojanClient.lib 和对象 D:\vsproject\LittleBear\x64\Release\TrojanClient.exp
+  正在生成代码
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TrojanClient.vcxproj -> D:\vsproject\LittleBear\x64\Release\TrojanClient.dll
+  TrojanClient.vcxproj -> D:\vsproject\LittleBear\x64\Release\TrojanClient.pdb (Full PDB)

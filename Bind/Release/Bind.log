@@ -1,0 +1,9 @@
+﻿  Bind.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\Dbghelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\Dbghelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+  SetIcon.cpp
+  正在生成代码
+  All 156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Bind.vcxproj -> D:\vsproject\LittleBear\Release\Bind.exe
+  Bind.vcxproj -> D:\vsproject\LittleBear\Release\Bind.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  BindSo.cpp
+BindSo.cpp(249): warning C4101: “szlog”: 未引用的局部变量
+  正在生成代码
+  All 148 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  bindAndroidSO.vcxproj -> D:\vsproject\LittleBear\Release\bindAndroidSO.exe
+  bindAndroidSO.vcxproj -> D:\vsproject\LittleBear\Release\bindAndroidSO.pdb (Full PDB)

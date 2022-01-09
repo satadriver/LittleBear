@@ -1,0 +1,8 @@
+﻿  Base64.cpp
+Base64.cpp(86): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Base64.cpp(160): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+main.cpp(28): warning C4101: “ziputil”: 未引用的局部变量
+  zipUtil.cpp
+zipUtil.obj : error LNK2001: 无法解析的外部符号 uncompress
+D:\vsproject\LittleBear\x64\Release\tools.exe : fatal error LNK1120: 1 个无法解析的外部命令

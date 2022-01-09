@@ -1,0 +1,26 @@
+﻿  LittleBearDll.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(1540): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\DbgHelp.h(3056): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ShlObj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+LittleBearDll.cpp(160): warning C4101: “szout”: 未引用的局部变量
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 在未指定异常处理模式的情况下使用了 "noexcept"；不一定会在异常时终止。指定 /EHsc
+version.def : warning LNK4104: 导出符号“DllInitialize”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllCanUnloadNow”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllGetClassObject”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllRegisterServer”应为 PRIVATE
+version.def : warning LNK4104: 导出符号“DllUnregisterServer”应为 PRIVATE
+    正在创建库 D:\vsproject\LittleBear\Release\sbiedll.lib 和对象 D:\vsproject\LittleBear\Release\sbiedll.exp
+  正在生成代码
+  1 of 1802 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+zlib.lib(adler32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(adler32.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(compress.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(compress.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(crc32.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(crc32.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(deflate.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(deflate.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(trees.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(trees.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+zlib.lib(zutil.obj) : warning LNK4099: 未找到 PDB“zlib.pdb”(使用“zlib.lib(zutil.obj)”或在“D:\vsproject\LittleBear\Release\zlib.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  LittleBearDllNew.vcxproj -> D:\vsproject\LittleBear\Release\sbiedll.dll
+  LittleBearDllNew.vcxproj -> D:\vsproject\LittleBear\Release\sbiedll.pdb (Full PDB)
